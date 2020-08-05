@@ -1,8 +1,8 @@
 # Antifungal-Peptide-Prediction
 
-<p>For this assignment, we applied the SVM prediction model using the five-fold cross
+For this assignment, we applied the SVM prediction model using the five-fold cross
 validation method. We carried out this prediction on various input parameters applied on
-the amino acid sequences which are listed as follows:</p>
+the amino acid sequences which are listed as follows:
 * Amino Acid Composition
 * Dipeptide Composition
 * Tripeptide Composition
