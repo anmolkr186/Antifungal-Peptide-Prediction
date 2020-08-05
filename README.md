@@ -7,8 +7,8 @@ the amino acid sequences which are listed as follows:
 * Dipeptide Composition
 * Tripeptide Composition
 * Hydrophobicity
-<p> We found out that our best score is 0.92717 using the Tripeptide Composition of amino
-acid sequences. </p> 
+We found out that our best score is 0.92717 using the Tripeptide Composition of amino
+acid sequences.
 ## Execution Information
 <p> We implemented our code on the Google Colab Platform. We have submitted the .ipynb
 file for the same. Follow the following steps to execute the code: </p>
